@@ -1,0 +1,495 @@
+2019-06-22 21:43:49.655 00001770 Error: read from: www.speedtest.net failed: WSAECONNRESET - Connection reset by peer.
+2019-06-22 21:43:49.656 00001770 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-22 21:48:00.233 00000c94 Error: read from: zdbb.net failed: WSAECONNRESET - Connection reset by peer.
+2019-06-22 21:48:00.233 00000c94 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-22 21:48:00.239 0000195c Error: read from: zdbb.net failed: WSAECONNRESET - Connection reset by peer.
+2019-06-22 21:48:00.239 0000195c Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-22 21:48:00.437 00000560 Error: read from: tags.bluekai.com failed: WSAECONNRESET - Connection reset by peer.
+2019-06-22 21:48:00.437 00000560 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-22 21:58:35.566 00001508 Error: read from: fastlane.rubiconproject.com failed: WSAECONNRESET - Connection reset by peer.
+2019-06-22 21:58:35.566 00001508 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-23 10:34:30.830 0000164c Error: Couldn't deliver the error message through client socket 864: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:42.202 00001658 Error: Couldn't deliver the error message through client socket 1816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:42.531 00000904 Error: Couldn't deliver the error message through client socket 1352: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:42.589 000012c4 Error: Couldn't deliver the error message through client socket 1712: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:42.618 000017b8 Error: Couldn't deliver the error message through client socket 3096: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:42.624 00000ac8 Error: Couldn't deliver the error message through client socket 2968: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:43.623 00000f04 Error: Couldn't deliver the error message through client socket 816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:43.630 00001484 Error: Couldn't deliver the error message through client socket 3240: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:43.643 000009f8 Error: Couldn't deliver the error message through client socket 980: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:43.645 00001238 Error: Couldn't deliver the error message through client socket 1544: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:44.768 000015a8 Error: Couldn't deliver the error message through client socket 2556: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.415 00000ed4 Error: Couldn't deliver the error message through client socket 1164: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.471 000014b0 Error: Couldn't deliver the error message through client socket 3076: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.474 00001018 Error: Couldn't deliver the error message through client socket 1024: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.687 00000f08 Error: Couldn't deliver the error message through client socket 2520: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.737 00000c60 Error: Couldn't deliver the error message through client socket 1412: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.739 0000076c Error: Couldn't deliver the error message through client socket 1220: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:47.742 00000950 Error: Couldn't deliver the error message through client socket 2568: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:48.676 00001618 Error: Couldn't deliver the error message through client socket 2640: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:48.718 000010c0 Error: Couldn't deliver the error message through client socket 2592: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:48.721 00001244 Error: Couldn't deliver the error message through client socket 2528: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:48.723 000008dc Error: Couldn't deliver the error message through client socket 2544: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:50.708 00001100 Error: Couldn't deliver the error message through client socket 2596: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:50.735 000013f8 Error: Couldn't deliver the error message through client socket 2104: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:50.737 000011cc Error: Couldn't deliver the error message through client socket 2716: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:50.739 00000a84 Error: Couldn't deliver the error message through client socket 2576: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:54.772 0000133c Error: Couldn't deliver the error message through client socket 2784: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:54.813 000017cc Error: Couldn't deliver the error message through client socket 3052: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:54.814 00000d2c Error: Couldn't deliver the error message through client socket 3160: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:54.816 000014bc Error: Couldn't deliver the error message through client socket 1960: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.428 00000220 Error: Couldn't deliver the error message through client socket 2892: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.481 00001700 Error: Couldn't deliver the error message through client socket 2928: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.484 00001358 Error: Couldn't deliver the error message through client socket 3000: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.486 000017b4 Error: Couldn't deliver the error message through client socket 3204: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.564 00001110 Error: Couldn't deliver the error message through client socket 2888: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:55.641 000016f4 Error: Couldn't deliver the error message through client socket 3324: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:56.607 000003a0 Error: Couldn't deliver the error message through client socket 3408: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:56.610 00001730 Error: Couldn't deliver the error message through client socket 3428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:58.615 000012b4 Error: Couldn't deliver the error message through client socket 3488: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:38:58.625 00001140 Error: Couldn't deliver the error message through client socket 3480: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:39:01.471 00001400 Error: Couldn't deliver the error message through client socket 3516: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:39:05.715 00001570 Error: Couldn't deliver the error message through client socket 3620: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:39:05.718 000011fc Error: Couldn't deliver the error message through client socket 3612: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 10:44:53.687 00001790 Error: No server or forwarder response received on socket 3960.
+2019-06-23 10:44:53.760 000008f0 Error: No server or forwarder response received on socket 3620.
+2019-06-23 11:10:03.262 0000160c Error: No server or forwarder response received on socket 3364.
+2019-06-23 11:10:03.289 00001090 Error: No server or forwarder response received on socket 1292.
+2019-06-23 11:10:07.030 00001238 Error: No server or forwarder response received on socket 3632.
+2019-06-23 11:10:07.126 000008e0 Error: No server or forwarder response received on socket 3556.
+2019-06-23 11:10:07.169 00000cdc Error: No server or forwarder response received on socket 3692.
+2019-06-23 11:10:07.171 00001368 Error: No server or forwarder response received on socket 3312.
+2019-06-23 11:10:07.346 00000d28 Error: No server or forwarder response received on socket 3296.
+2019-06-23 11:10:07.352 0000076c Error: No server or forwarder response received on socket 3468.
+2019-06-23 11:10:07.516 00000dd0 Error: No server or forwarder response received on socket 2776.
+2019-06-23 11:10:07.615 00000df4 Error: No server or forwarder response received on socket 3512.
+2019-06-23 11:10:07.669 00000a98 Error: No server or forwarder response received on socket 3968.
+2019-06-23 11:10:07.725 00001060 Error: No server or forwarder response received on socket 3488.
+2019-06-23 11:10:07.786 00001464 Error: No server or forwarder response received on socket 2796.
+2019-06-23 11:10:08.081 00001468 Error: No server or forwarder response received on socket 2888.
+2019-06-23 11:10:08.128 000016f4 Error: No server or forwarder response received on socket 2888.
+2019-06-23 11:10:08.180 000017f4 Error: No server or forwarder response received on socket 2896.
+2019-06-23 11:10:08.180 00000bec Error: No server or forwarder response received on socket 3660.
+2019-06-23 11:10:08.237 00001430 Error: No server or forwarder response received on socket 2888.
+2019-06-23 11:10:08.244 00001484 Error: No server or forwarder response received on socket 3692.
+2019-06-23 11:10:08.508 00001024 Error: No server or forwarder response received on socket 3692.
+2019-06-23 11:10:08.760 000015c0 Error: No server or forwarder response received on socket 3588.
+2019-06-23 11:10:08.853 00000acc Error: No server or forwarder response received on socket 3296.
+2019-06-23 11:10:08.908 000006f8 Error: No server or forwarder response received on socket 1572.
+2019-06-23 11:10:08.969 00001074 Error: No server or forwarder response received on socket 2636.
+2019-06-23 11:10:08.974 000014dc Error: No server or forwarder response received on socket 1572.
+2019-06-23 11:10:09.022 000010c0 Error: No server or forwarder response received on socket 3376.
+2019-06-23 11:10:09.037 00000dfc Error: No server or forwarder response received on socket 2776.
+2019-06-23 11:10:09.142 0000156c Error: No server or forwarder response received on socket 3540.
+2019-06-23 11:10:10.372 000006c4 Error: No server or forwarder response received on socket 2180.
+2019-06-23 11:10:10.457 000009dc Error: No server or forwarder response received on socket 3208.
+2019-06-23 11:10:10.491 00000908 Error: No server or forwarder response received on socket 3196.
+2019-06-23 11:10:10.563 000011b0 Error: No server or forwarder response received on socket 3664.
+2019-06-23 11:10:10.573 00000fd0 Error: No server or forwarder response received on socket 3504.
+2019-06-23 11:10:10.642 00000ef0 Error: No server or forwarder response received on socket 1572.
+2019-06-23 11:10:10.644 00001380 Error: No server or forwarder response received on socket 1652.
+2019-06-23 11:10:12.715 00001028 Error: No server or forwarder response received on socket 3624.
+2019-06-23 11:10:12.900 00000a6c Error: No server or forwarder response received on socket 3016.
+2019-06-23 11:10:13.002 000009cc Error: No server or forwarder response received on socket 3456.
+2019-06-23 11:10:13.009 00000478 Error: No server or forwarder response received on socket 3532.
+2019-06-23 11:10:13.105 00000cf0 Error: No server or forwarder response received on socket 3532.
+2019-06-23 11:10:13.122 00001084 Error: No server or forwarder response received on socket 2868.
+2019-06-23 11:10:16.886 00000a7c Error: No server or forwarder response received on socket 2896.
+2019-06-23 11:10:17.291 00000be8 Error: No server or forwarder response received on socket 3320.
+2019-06-23 11:10:17.428 000017b4 Error: No server or forwarder response received on socket 3632.
+2019-06-23 11:10:17.499 00000a70 Error: No server or forwarder response received on socket 2868.
+2019-06-23 11:10:17.525 00000e6c Error: No server or forwarder response received on socket 2908.
+2019-06-23 11:10:17.586 00000294 Error: No server or forwarder response received on socket 3692.
+2019-06-23 11:10:17.590 00000430 Error: No server or forwarder response received on socket 3440.
+2019-06-23 14:04:42.421 000004a4 Error: Couldn't deliver the error message through client socket 3372: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:04:42.490 000009f4 Error: Couldn't deliver the error message through client socket 3520: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:04:43.412 0000063c Error: Couldn't deliver the error message through client socket 1208: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:04:43.474 0000169c Error: Couldn't deliver the error message through client socket 2988: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:04:45.474 00000584 Error: Couldn't deliver the error message through client socket 1764: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:04:45.475 000004d0 Error: Couldn't deliver the error message through client socket 2692: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:09.757 00000b8c Error: Couldn't deliver the error message through client socket 2536: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:09.818 00001508 Error: Couldn't deliver the error message through client socket 3160: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:13.392 000016e4 Error: Couldn't deliver the error message through client socket 1300: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:13.450 00001680 Error: Couldn't deliver the error message through client socket 3216: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:14.455 00000268 Error: Couldn't deliver the error message through client socket 1788: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:14.456 00000a40 Error: Couldn't deliver the error message through client socket 1184: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:15.664 000008ec Error: Couldn't deliver the error message through client socket 2116: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:15.724 00001608 Error: Couldn't deliver the error message through client socket 2184: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:16.707 00000ac4 Error: Couldn't deliver the error message through client socket 2752: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:16.708 00001778 Error: Couldn't deliver the error message through client socket 3816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:17.776 00001160 Error: Couldn't deliver the error message through client socket 1736: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:17.826 00000cd8 Error: Couldn't deliver the error message through client socket 1812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:18.644 00000510 Error: Couldn't deliver the error message through client socket 3676: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:18.701 00000664 Error: Couldn't deliver the error message through client socket 2748: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:22.700 00001658 Error: Couldn't deliver the error message through client socket 3100: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:22.703 000013f0 Error: Couldn't deliver the error message through client socket 3648: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:23.706 000017e0 Error: Couldn't deliver the error message through client socket 1840: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:23.708 000017a0 Error: Couldn't deliver the error message through client socket 1560: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:23.763 0000085c Error: Couldn't deliver the error message through client socket 1188: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:23.831 00001734 Error: Couldn't deliver the error message through client socket 3968: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:23.836 00000f4c Error: Couldn't deliver the error message through client socket 1492: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:24.701 00001208 Error: Couldn't deliver the error message through client socket 3040: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:24.763 00000cb4 Error: Couldn't deliver the error message through client socket 3984: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:24.821 0000078c Error: Couldn't deliver the error message through client socket 1676: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:25.827 00001764 Error: Couldn't deliver the error message through client socket 3672: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:25.837 00001730 Error: Couldn't deliver the error message through client socket 2904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:26.695 000014cc Error: Couldn't deliver the error message through client socket 3164: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:26.759 000014fc Error: Couldn't deliver the error message through client socket 3604: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:26.815 000015a0 Error: Couldn't deliver the error message through client socket 1816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:30.706 00000820 Error: Couldn't deliver the error message through client socket 2740: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:30.706 00001648 Error: Couldn't deliver the error message through client socket 2428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:30.780 000016d8 Error: Couldn't deliver the error message through client socket 3172: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:30.836 000009e4 Error: Couldn't deliver the error message through client socket 832: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:31.707 000010f8 Error: Couldn't deliver the error message through client socket 3300: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:31.718 0000150c Error: Couldn't deliver the error message through client socket 1532: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:32.696 00001280 Error: Couldn't deliver the error message through client socket 3512: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:33.774 000003a4 Error: Couldn't deliver the error message through client socket 1088: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:34.654 000003f4 Error: Couldn't deliver the error message through client socket 1348: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:34.710 00001070 Error: Couldn't deliver the error message through client socket 3824: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:38.651 00000a88 Error: Couldn't deliver the error message through client socket 4008: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:38.722 00001538 Error: Couldn't deliver the error message through client socket 3704: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:39.715 000017c4 Error: Couldn't deliver the error message through client socket 4072: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:39.716 0000115c Error: Couldn't deliver the error message through client socket 4024: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:39.789 000013bc Error: Couldn't deliver the error message through client socket 4100: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:39.843 0000157c Error: Couldn't deliver the error message through client socket 4164: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:40.711 00000a7c Error: Couldn't deliver the error message through client socket 4176: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:40.712 000010d4 Error: Couldn't deliver the error message through client socket 4236: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:40.766 00000dc0 Error: Couldn't deliver the error message through client socket 4260: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:40.834 00000e10 Error: Couldn't deliver the error message through client socket 4356: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:41.767 0000063c Error: Couldn't deliver the error message through client socket 4396: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:41.818 00001174 Error: Couldn't deliver the error message through client socket 4252: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:42.701 0000145c Error: Couldn't deliver the error message through client socket 4476: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:42.704 00001650 Error: Couldn't deliver the error message through client socket 4440: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:42.776 00000a90 Error: Couldn't deliver the error message through client socket 4500: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:42.822 000017e8 Error: Couldn't deliver the error message through client socket 4552: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:46.783 00000718 Error: Couldn't deliver the error message through client socket 4660: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:46.829 000016a4 Error: Couldn't deliver the error message through client socket 4576: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:46.829 00001600 Error: Couldn't deliver the error message through client socket 4636: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:46.832 00001784 Error: Couldn't deliver the error message through client socket 4700: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:47.645 00001578 Error: Couldn't deliver the error message through client socket 4796: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:47.711 0000133c Error: Couldn't deliver the error message through client socket 4788: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:48.638 000002e8 Error: Couldn't deliver the error message through client socket 4876: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:48.710 000015f0 Error: Couldn't deliver the error message through client socket 4840: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:49.832 00001244 Error: Couldn't deliver the error message through client socket 2960: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:50.693 000010dc Error: Couldn't deliver the error message through client socket 4956: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:50.766 000009f4 Error: Couldn't deliver the error message through client socket 2420: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:54.636 00000bb8 Error: Couldn't deliver the error message through client socket 1336: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:54.688 000004a4 Error: Couldn't deliver the error message through client socket 1164: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:55.702 00001260 Error: Couldn't deliver the error message through client socket 1320: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:55.705 0000161c Error: Couldn't deliver the error message through client socket 2844: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:56.695 00001758 Error: Couldn't deliver the error message through client socket 3900: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:57.820 00000e58 Error: Couldn't deliver the error message through client socket 1080: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:57.820 00001138 Error: Couldn't deliver the error message through client socket 3240: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:58.624 00001508 Error: Couldn't deliver the error message through client socket 1128: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:05:58.687 00001670 Error: Couldn't deliver the error message through client socket 1004: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:02.693 00001460 Error: Couldn't deliver the error message through client socket 3944: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:02.694 000010d0 Error: Couldn't deliver the error message through client socket 2732: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:03.752 00001680 Error: Couldn't deliver the error message through client socket 1696: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:03.806 0000165c Error: Couldn't deliver the error message through client socket 2716: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:03.814 00000380 Error: Couldn't deliver the error message through client socket 3520: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:03.816 000003cc Error: Couldn't deliver the error message through client socket 1176: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:04.712 00000b14 Error: Couldn't deliver the error message through client socket 836: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:04.717 00000338 Error: Couldn't deliver the error message through client socket 2996: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:04.770 000009bc Error: Couldn't deliver the error message through client socket 3236: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:04.826 000008ec Error: Couldn't deliver the error message through client socket 1892: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:05.748 000012d4 Error: Couldn't deliver the error message through client socket 1956: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:05.801 000014f8 Error: Couldn't deliver the error message through client socket 1548: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:06.684 000011e8 Error: Couldn't deliver the error message through client socket 2092: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:06.686 000014d4 Error: Couldn't deliver the error message through client socket 1292: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:06.753 00001048 Error: Couldn't deliver the error message through client socket 2580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:06.793 000015dc Error: Couldn't deliver the error message through client socket 1256: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:10.694 00001570 Error: Couldn't deliver the error message through client socket 928: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:10.697 00001198 Error: Couldn't deliver the error message through client socket 1820: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:10.757 000004b4 Error: Couldn't deliver the error message through client socket 3412: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:10.818 0000103c Error: Couldn't deliver the error message through client socket 1112: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:11.701 000017a0 Error: Couldn't deliver the error message through client socket 2972: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:11.711 00000418 Error: Couldn't deliver the error message through client socket 2428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:12.696 0000093c Error: Couldn't deliver the error message through client socket 3916: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:12.701 00001464 Error: Couldn't deliver the error message through client socket 1888: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:13.751 00000cb4 Error: Couldn't deliver the error message through client socket 1372: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:13.820 0000078c Error: Couldn't deliver the error message through client socket 1328: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:14.687 00001608 Error: Couldn't deliver the error message through client socket 1944: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:14.689 00000a08 Error: Couldn't deliver the error message through client socket 1604: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:18.696 00000ea8 Error: Couldn't deliver the error message through client socket 3832: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:18.705 000014cc Error: Couldn't deliver the error message through client socket 4028: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:19.753 00001118 Error: Couldn't deliver the error message through client socket 3724: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:19.818 000015a0 Error: Couldn't deliver the error message through client socket 3712: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:20.756 00000ca4 Error: Couldn't deliver the error message through client socket 4272: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:20.811 00001658 Error: Couldn't deliver the error message through client socket 4112: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:29.812 00000874 Error: Couldn't deliver the error message through client socket 2864: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:35.979 000000e8 Error: Couldn't deliver the error message through client socket 2676: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:35.997 000011dc Error: Couldn't deliver the error message through client socket 5020: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:36.757 000004cc Error: Couldn't deliver the error message through client socket 5052: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:36.807 000011fc Error: Couldn't deliver the error message through client socket 1940: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:36.861 00000a6c Error: Couldn't deliver the error message through client socket 5064: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:36.918 0000118c Error: Couldn't deliver the error message through client socket 3308: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:37.815 000004a4 Error: Couldn't deliver the error message through client socket 5012: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:37.828 00000dd8 Error: Couldn't deliver the error message through client socket 2968: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:39.811 0000066c Error: Couldn't deliver the error message through client socket 3864: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:43.774 00001280 Error: Couldn't deliver the error message through client socket 2568: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.043 000014fc Error: Couldn't deliver the error message through client socket 1188: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.086 000016e4 Error: Couldn't deliver the error message through client socket 3316: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.087 00000a88 Error: Couldn't deliver the error message through client socket 1580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.088 00001260 Error: Couldn't deliver the error message through client socket 1928: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.737 0000161c Error: Couldn't deliver the error message through client socket 3860: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.800 00001538 Error: Couldn't deliver the error message through client socket 3428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:44.989 0000070c Error: Couldn't deliver the error message through client socket 3128: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:45.042 00000a90 Error: Couldn't deliver the error message through client socket 2884: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:45.042 00000c64 Error: Couldn't deliver the error message through client socket 1020: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:45.051 00001600 Error: Couldn't deliver the error message through client socket 3612: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:46.998 000015f0 Error: Couldn't deliver the error message through client socket 3500: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:47.040 00000b38 Error: Couldn't deliver the error message through client socket 3212: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:47.043 00000070 Error: Couldn't deliver the error message through client socket 3896: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.017 00001670 Error: Couldn't deliver the error message through client socket 3172: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.079 00001138 Error: Couldn't deliver the error message through client socket 1536: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.079 00000a7c Error: Couldn't deliver the error message through client socket 2796: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.089 0000175c Error: Couldn't deliver the error message through client socket 2240: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.939 000004e8 Error: Couldn't deliver the error message through client socket 1724: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:51.940 000010d0 Error: Couldn't deliver the error message through client socket 3268: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:52.747 00001680 Error: Couldn't deliver the error message through client socket 3936: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:52.823 00000c60 Error: Couldn't deliver the error message through client socket 1828: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:52.932 000017f4 Error: Couldn't deliver the error message through client socket 3276: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:52.935 00000dc0 Error: Couldn't deliver the error message through client socket 1880: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:54.853 0000105c Error: Couldn't deliver the error message through client socket 3812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:54.927 00000408 Error: Couldn't deliver the error message through client socket 3292: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:58.869 00000b14 Error: Couldn't deliver the error message through client socket 4008: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:58.934 000009bc Error: Couldn't deliver the error message through client socket 3152: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:59.946 000008ec Error: Couldn't deliver the error message through client socket 4148: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:06:59.946 000017e8 Error: Couldn't deliver the error message through client socket 4156: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.010 000014f8 Error: Couldn't deliver the error message through client socket 4108: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.082 000011e8 Error: Couldn't deliver the error message through client socket 3712: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.820 00001048 Error: Couldn't deliver the error message through client socket 1604: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.828 00000a40 Error: Couldn't deliver the error message through client socket 4112: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.945 0000108c Error: Couldn't deliver the error message through client socket 1088: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:00.946 00000a58 Error: Couldn't deliver the error message through client socket 4312: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:01.013 00000a60 Error: Couldn't deliver the error message through client socket 4224: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:01.066 00001758 Error: Couldn't deliver the error message through client socket 4116: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:03.011 0000124c Error: Couldn't deliver the error message through client socket 3904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:03.057 00000418 Error: Couldn't deliver the error message through client socket 2348: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:03.057 000003c8 Error: Couldn't deliver the error message through client socket 4840: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:03.059 000017a0 Error: Couldn't deliver the error message through client socket 4172: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.007 00000cb4 Error: Couldn't deliver the error message through client socket 4800: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.057 00000ec8 Error: Couldn't deliver the error message through client socket 4780: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.059 00001464 Error: Couldn't deliver the error message through client socket 4788: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.060 00001594 Error: Couldn't deliver the error message through client socket 4644: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.857 000016ec Error: Couldn't deliver the error message through client socket 4728: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:07.930 00000ea8 Error: Couldn't deliver the error message through client socket 4836: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:08.745 000016a8 Error: Couldn't deliver the error message through client socket 4616: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:08.818 00001118 Error: Couldn't deliver the error message through client socket 4688: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:08.930 00000638 Error: Couldn't deliver the error message through client socket 4532: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:08.931 000015a0 Error: Couldn't deliver the error message through client socket 4628: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:10.996 000010f8 Error: Couldn't deliver the error message through client socket 1004: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:11.006 000015dc Error: Couldn't deliver the error message through client socket 4568: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:14.846 000002e8 Error: Couldn't deliver the error message through client socket 3920: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:07:14.904 00000e58 Error: Couldn't deliver the error message through client socket 4392: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:11:41.640 00001e14 Error: Unknown HTTP method detected: HTTP/1.1
+2019-06-23 14:11:41.640 00001e14 Error: Couldn't parse request line received from 127.0.0.1: Parse error
+2019-06-23 14:18:55.053 00001be0 Error: Couldn't deliver the error message through client socket 4768: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.105 00001aac Error: Couldn't deliver the error message through client socket 1924: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.107 00001f24 Error: Couldn't deliver the error message through client socket 4056: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.107 00001ed4 Error: Couldn't deliver the error message through client socket 3816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.841 0000190c Error: Couldn't deliver the error message through client socket 2104: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.922 00000f38 Error: Couldn't deliver the error message through client socket 1364: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:55.983 00001768 Error: Couldn't deliver the error message through client socket 1088: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:56.930 000002e8 Error: Couldn't deliver the error message through client socket 4812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:57.002 00001a98 Error: Couldn't deliver the error message through client socket 4680: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:58.977 00001e24 Error: Couldn't deliver the error message through client socket 2100: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:18:58.977 00001890 Error: Couldn't deliver the error message through client socket 2544: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:01.437 000019bc Error: Couldn't deliver the error message through client socket 1572: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:01.489 000019b0 Error: Couldn't deliver the error message through client socket 4028: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:02.911 00001ae0 Error: Couldn't deliver the error message through client socket 4208: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:02.963 00001cb8 Error: Couldn't deliver the error message through client socket 4664: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:04.061 00001af4 Error: Couldn't deliver the error message through client socket 4564: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:04.121 00001d40 Error: Couldn't deliver the error message through client socket 4652: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:04.124 00001758 Error: Couldn't deliver the error message through client socket 3808: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:04.128 0000186c Error: Couldn't deliver the error message through client socket 2824: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.040 000011dc Error: Couldn't deliver the error message through client socket 1892: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.087 00001c3c Error: Couldn't deliver the error message through client socket 1576: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.087 00001888 Error: Couldn't deliver the error message through client socket 3048: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.089 00001f50 Error: Couldn't deliver the error message through client socket 4476: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.447 00000444 Error: Couldn't deliver the error message through client socket 2880: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:05.500 00000864 Error: Couldn't deliver the error message through client socket 4320: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:06.769 00001870 Error: Couldn't deliver the error message through client socket 1256: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:06.771 00001a70 Error: Couldn't deliver the error message through client socket 4684: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:07.107 00001d20 Error: Couldn't deliver the error message through client socket 4756: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:07.156 0000187c Error: Couldn't deliver the error message through client socket 2848: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:07.159 0000188c Error: Couldn't deliver the error message through client socket 4008: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:07.160 000004a4 Error: Couldn't deliver the error message through client socket 4580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:09.034 00001ad4 Error: Couldn't deliver the error message through client socket 4904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.043 00000efc Error: Couldn't deliver the error message through client socket 1264: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.094 000008ec Error: Couldn't deliver the error message through client socket 1348: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.094 00001508 Error: Couldn't deliver the error message through client socket 4500: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.096 00001848 Error: Couldn't deliver the error message through client socket 3844: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.925 00001d8c Error: Couldn't deliver the error message through client socket 4020: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:11.974 00001cd8 Error: Couldn't deliver the error message through client socket 4920: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:12.914 0000066c Error: Couldn't deliver the error message through client socket 3992: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:12.993 0000063c Error: Couldn't deliver the error message through client socket 4728: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:13.441 0000185c Error: Couldn't deliver the error message through client socket 3812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:13.507 00001918 Error: Couldn't deliver the error message through client socket 1220: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:14.991 00001f1c Error: Couldn't deliver the error message through client socket 4672: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:14.998 00001c68 Error: Couldn't deliver the error message through client socket 4660: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:15.876 00000dd8 Error: Couldn't deliver the error message through client socket 4248: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:18.905 000014d4 Error: Couldn't deliver the error message through client socket 2800: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:19:18.961 00001f94 Error: Couldn't deliver the error message through client socket 3128: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.611 000019a4 Error: Couldn't deliver the error message through client socket 3128: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.652 00001a84 Error: Couldn't deliver the error message through client socket 3416: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.703 000019fc Error: Couldn't deliver the error message through client socket 3344: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.715 00001b6c Error: Couldn't deliver the error message through client socket 3644: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.722 000018d8 Error: Couldn't deliver the error message through client socket 3040: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.791 00001e24 Error: Couldn't deliver the error message through client socket 1340: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:24.887 0000070c Error: Couldn't deliver the error message through client socket 1220: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:25.478 00001bdc Error: Couldn't deliver the error message through client socket 1612: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:25.479 0000124c Error: Couldn't deliver the error message through client socket 2728: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:25.562 00000cdc Error: Couldn't deliver the error message through client socket 4632: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:25.623 00001da8 Error: Couldn't deliver the error message through client socket 1676: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:26.941 00001940 Error: Couldn't deliver the error message through client socket 3424: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:27.578 000014ac Error: Couldn't deliver the error message through client socket 4508: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:27.643 00001ecc Error: Couldn't deliver the error message through client socket 4500: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:27.647 00001d00 Error: Couldn't deliver the error message through client socket 4888: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:27.649 000019bc Error: Couldn't deliver the error message through client socket 3576: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:31.471 00001840 Error: Couldn't deliver the error message through client socket 1724: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:31.475 00001638 Error: Couldn't deliver the error message through client socket 1416: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:31.558 00001138 Error: Couldn't deliver the error message through client socket 968: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:31.604 00001a60 Error: Couldn't deliver the error message through client socket 3380: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:31.648 00001a70 Error: Couldn't deliver the error message through client socket 5004: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.005 00001b30 Error: Couldn't deliver the error message through client socket 1256: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.008 0000188c Error: Couldn't deliver the error message through client socket 4740: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.417 00001808 Error: Couldn't deliver the error message through client socket 4556: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.467 00001968 Error: Couldn't deliver the error message through client socket 4464: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.920 00001508 Error: Couldn't deliver the error message through client socket 4408: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:32.984 00001a6c Error: Couldn't deliver the error message through client socket 4668: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:34.999 00001e30 Error: Couldn't deliver the error message through client socket 2812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:35.003 00001c98 Error: Couldn't deliver the error message through client socket 3916: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:35.808 0000066c Error: Couldn't deliver the error message through client socket 3556: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:42.881 00001fc8 Error: Couldn't deliver the error message through client socket 4512: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:42.961 00001844 Error: Couldn't deliver the error message through client socket 4080: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:43.043 0000161c Error: Couldn't deliver the error message through client socket 4648: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:43.742 00000cd8 Error: Couldn't deliver the error message through client socket 1904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:46.938 00001a50 Error: Couldn't deliver the error message through client socket 4432: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:47.007 000012c4 Error: Couldn't deliver the error message through client socket 2100: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:48.094 00001efc Error: Couldn't deliver the error message through client socket 1832: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:48.160 00001600 Error: Couldn't deliver the error message through client socket 4324: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:48.162 00001894 Error: Couldn't deliver the error message through client socket 3904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:48.162 00001874 Error: Couldn't deliver the error message through client socket 4488: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:49.063 00001d54 Error: Couldn't deliver the error message through client socket 4568: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:49.133 00001dbc Error: Couldn't deliver the error message through client socket 4104: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:49.136 00001a04 Error: Couldn't deliver the error message through client socket 2104: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:50.733 00001838 Error: Couldn't deliver the error message through client socket 2864: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:50.803 00001b84 Error: Couldn't deliver the error message through client socket 4236: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:50.988 00001948 Error: Couldn't deliver the error message through client socket 3580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:50.989 000011ac Error: Couldn't deliver the error message through client socket 3428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:51.074 00001038 Error: Couldn't deliver the error message through client socket 1216: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:51.121 00000268 Error: Couldn't deliver the error message through client socket 3504: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:53.526 00001904 Error: Couldn't deliver the error message through client socket 3520: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:54.997 00000e08 Error: Couldn't deliver the error message through client socket 1708: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:54.998 00001a30 Error: Couldn't deliver the error message through client socket 1120: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:55.080 00001bb4 Error: Couldn't deliver the error message through client socket 4872: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:55.138 0000178c Error: Couldn't deliver the error message through client socket 3480: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:56.011 00001a48 Error: Couldn't deliver the error message through client socket 1240: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:56.022 00001d7c Error: Couldn't deliver the error message through client socket 3308: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:56.946 00001b1c Error: Couldn't deliver the error message through client socket 2844: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:57.022 00001c48 Error: Couldn't deliver the error message through client socket 3216: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:58.743 00001c1c Error: Couldn't deliver the error message through client socket 1164: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:58.806 00000254 Error: Couldn't deliver the error message through client socket 2108: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:58.992 00001bd4 Error: Couldn't deliver the error message through client socket 4216: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:22:58.994 00001c4c Error: Couldn't deliver the error message through client socket 4368: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:02.936 00001b8c Error: Couldn't deliver the error message through client socket 5088: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:03.019 00001aa4 Error: Couldn't deliver the error message through client socket 5080: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:04.075 000016ec Error: Couldn't deliver the error message through client socket 5188: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:04.145 000016a4 Error: Couldn't deliver the error message through client socket 5160: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:04.145 000016dc Error: Couldn't deliver the error message through client socket 5168: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:04.159 00001a74 Error: Couldn't deliver the error message through client socket 5256: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:05.021 00001c58 Error: Couldn't deliver the error message through client socket 4428: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:05.022 00001c6c Error: Couldn't deliver the error message through client socket 3812: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:05.089 00001670 Error: Couldn't deliver the error message through client socket 816: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:05.166 0000117c Error: Couldn't deliver the error message through client socket 2756: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:06.736 00001f58 Error: Couldn't deliver the error message through client socket 4620: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:06.794 00001df8 Error: Couldn't deliver the error message through client socket 4360: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:06.993 00001dec Error: Couldn't deliver the error message through client socket 4044: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:06.993 00001cc8 Error: Couldn't deliver the error message through client socket 2704: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:07.055 00001e88 Error: Couldn't deliver the error message through client socket 3208: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:07.115 000017e8 Error: Couldn't deliver the error message through client socket 3944: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:07.601 00001dd8 Error: Couldn't deliver the error message through client socket 3172: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:08.219 00001fec Error: Couldn't deliver the error message through client socket 3264: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:08.866 0000108c Error: Couldn't deliver the error message through client socket 4800: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:08.881 00001ff4 Error: Couldn't deliver the error message through client socket 4936: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:10.527 000017d4 Error: Couldn't deliver the error message through client socket 836: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:10.972 00001f04 Error: Couldn't deliver the error message through client socket 3612: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:10.974 00001c30 Error: Couldn't deliver the error message through client socket 4792: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:11.067 00001e80 Error: Couldn't deliver the error message through client socket 5356: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:11.122 00000e88 Error: Couldn't deliver the error message through client socket 5340: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:11.898 00001c08 Error: Couldn't deliver the error message through client socket 1308: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:12.032 00000f54 Error: Couldn't deliver the error message through client socket 4840: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:12.034 00001dc8 Error: Couldn't deliver the error message through client socket 3712: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:12.980 00001ec4 Error: Couldn't deliver the error message through client socket 4476: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:12.983 00001a4c Error: Couldn't deliver the error message through client socket 1160: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:13.198 00001e60 Error: Couldn't deliver the error message through client socket 4184: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:14.407 00001608 Error: Couldn't deliver the error message through client socket 1288: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:14.744 00001c00 Error: Couldn't deliver the error message through client socket 4524: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:14.845 00001b7c Error: Couldn't deliver the error message through client socket 1368: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:15.029 00001b48 Error: Couldn't deliver the error message through client socket 1464: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:15.034 00001ab0 Error: Couldn't deliver the error message through client socket 3528: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:18.473 00001d50 Error: Couldn't deliver the error message through client socket 4064: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:18.476 00001358 Error: Couldn't deliver the error message through client socket 1692: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:18.939 00001c74 Error: Couldn't deliver the error message through client socket 4736: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:19.028 00001778 Error: Couldn't deliver the error message through client socket 4580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:20.009 00001e04 Error: Couldn't deliver the error message through client socket 5480: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:20.010 00001ed0 Error: Couldn't deliver the error message through client socket 5504: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:21.001 00001810 Error: Couldn't deliver the error message through client socket 5492: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:21.001 00001c50 Error: Couldn't deliver the error message through client socket 5576: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:22.748 00001e78 Error: Couldn't deliver the error message through client socket 5648: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:22.906 00001e38 Error: Couldn't deliver the error message through client socket 2256: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:23.041 00001910 Error: Couldn't deliver the error message through client socket 4596: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:23.043 00000b38 Error: Couldn't deliver the error message through client socket 1944: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:23:23.552 00001bbc Error: Couldn't deliver the error message through client socket 1224: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:49.376 00001edc Error: Couldn't deliver the error message through client socket 1224: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:49.388 000010a0 Error: Couldn't deliver the error message through client socket 928: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:49.479 00001a3c Error: Couldn't deliver the error message through client socket 4596: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:49.540 00001f80 Error: Couldn't deliver the error message through client socket 4664: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.072 00001c5c Error: Couldn't deliver the error message through client socket 5648: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.141 000019b0 Error: Couldn't deliver the error message through client socket 5580: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.344 00001b10 Error: Couldn't deliver the error message through client socket 5540: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.405 0000076c Error: Couldn't deliver the error message through client socket 5628: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.406 00001ef0 Error: Couldn't deliver the error message through client socket 5616: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:51.408 00001d7c Error: Couldn't deliver the error message through client socket 5484: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:55.305 00000b24 Error: Couldn't deliver the error message through client socket 5444: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:55.307 00001c48 Error: Couldn't deliver the error message through client socket 4736: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:55.374 000012d4 Error: Couldn't deliver the error message through client socket 2824: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:55.438 00001d30 Error: Couldn't deliver the error message through client socket 4600: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:56.008 00001058 Error: Couldn't deliver the error message through client socket 1464: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:56.009 00001e98 Error: Couldn't deliver the error message through client socket 3808: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:56.985 00000c50 Error: Couldn't deliver the error message through client socket 4524: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:56.997 000019f0 Error: Couldn't deliver the error message through client socket 3760: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:58.974 000009bc Error: Couldn't deliver the error message through client socket 4184: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:58.975 000017c8 Error: Couldn't deliver the error message through client socket 4836: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:59.070 00001db4 Error: Couldn't deliver the error message through client socket 4476: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:24:59.141 00001a18 Error: Couldn't deliver the error message through client socket 3712: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:02.980 0000187c Error: Couldn't deliver the error message through client socket 4992: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:02.991 0000186c Error: Couldn't deliver the error message through client socket 3328: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:04.002 000016dc Error: Couldn't deliver the error message through client socket 5416: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:04.002 00001a74 Error: Couldn't deliver the error message through client socket 5380: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:04.063 0000199c Error: Couldn't deliver the error message through client socket 5328: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:04.134 00001b44 Error: Couldn't deliver the error message through client socket 5344: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:04.536 00001d70 Error: Couldn't deliver the error message through client socket 5352: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:05.083 000015e8 Error: Couldn't deliver the error message through client socket 4036: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:05.144 000015a0 Error: Couldn't deliver the error message through client socket 4772: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:05.144 00001ddc Error: Couldn't deliver the error message through client socket 4904: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:05.156 00001cc8 Error: Couldn't deliver the error message through client socket 4888: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.058 00001220 Error: Couldn't deliver the error message through client socket 2800: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.129 00001118 Error: Couldn't deliver the error message through client socket 1736: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.179 00000c28 Error: Couldn't deliver the error message through client socket 1112: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.180 00000140 Error: Couldn't deliver the error message through client socket 3388: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.183 00001dd8 Error: Couldn't deliver the error message through client socket 3208: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 14:25:07.244 00001aac Error: Couldn't deliver the error message through client socket 4448: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:22:21.563 00001578 Error: No server or forwarder response received on socket 2516.
+2019-06-23 15:22:57.498 000019d8 Error: Couldn't deliver the error message through client socket 3060: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:27:45.570 00001b2c Error: write to client failed: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:27:46.263 00001d68 Error: read from: 185.54.244.187.prod.hosts.ooklaserver.net failed: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:27:46.263 00001d68 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-23 15:28:24.476 00000444 Error: read from: 104.200.153.211.prod.hosts.ooklaserver.net failed: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:28:24.476 00000444 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-23 15:33:20.933 00001844 Error: read from: 174.127.82.212.prod.hosts.ooklaserver.net failed: WSAECONNRESET - Connection reset by peer.
+2019-06-23 15:33:20.933 00001844 Error: CONNECT already confirmed. Unable to tell the client about the problem.
+2019-06-23 15:35:01.028 000017e0 Error: write to client failed: WSAECONNABORTED - Software caused connection abort.
+2019-06-23 15:35:02.968 00001d44 Error: read from: 174.127.82.212.prod.hosts.ooklaserver.net failed: WSAECONNRESET - Connection reset by peer.
+2019-06-23 15:35:02.968 00001d44 Error: CONNECT already confirmed. Unable to tell the client about the problem.
