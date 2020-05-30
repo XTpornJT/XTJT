@@ -3,7 +3,6 @@ surge_ruleset=DIRECT,https://raw.nameless13.com/api/public/dl/53G5ezvz/Unbreak.l
 surge_ruleset=XTJT,https://raw.nameless13.com/api/public/dl/LuqLMoDa/PROXY.list
 surge_ruleset=Netease,https://raw.nameless13.com/api/public/dl/Vb6VRZTX/yoyuNeteaseMusic.list
 surge_ruleset=Hijacking,rules/ConnersHua/Surge/Ruleset/Hijacking.list
-surge_ruleset=Advertising,rules/ConnersHua/Surge/Ruleset/Advertising.list
 surge_ruleset=Microsoft,rules/MSServices.list
 surge_ruleset=YouTube,https://raw.nameless13.com/api/public/dl/RPKEyuuu/YouTube.list
 surge_ruleset=Netflix,https://raw.nameless13.com/api/public/dl/btRQIZa2/Netflix.list
