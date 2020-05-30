@@ -1,0 +1,46 @@
+surge_ruleset=DIRECT,rules/LocalAreaNetwork.list
+surge_ruleset=DIRECT,https://raw.nameless13.com/api/public/dl/53G5ezvz/Unbreak.list
+surge_ruleset=XTJT,https://raw.nameless13.com/api/public/dl/LuqLMoDa/PROXY.list
+surge_ruleset=Netease,https://raw.nameless13.com/api/public/dl/Vb6VRZTX/yoyuNeteaseMusic.list
+surge_ruleset=Hijacking,rules/ConnersHua/Surge/Ruleset/Hijacking.list
+surge_ruleset=Advertising,rules/ConnersHua/Surge/Ruleset/Advertising.list
+surge_ruleset=Microsoft,rules/MSServices.list
+surge_ruleset=YouTube,https://raw.nameless13.com/api/public/dl/RPKEyuuu/YouTube.list
+surge_ruleset=Netflix,https://raw.nameless13.com/api/public/dl/btRQIZa2/Netflix.list
+surge_ruleset=Bahamut,https://raw.nameless13.com/api/public/dl/bwjpUjCI/Bahamut.list
+surge_ruleset=AbemaTV,https://raw.nameless13.com/api/public/dl/ZGj021eL/AbemaTV.list
+surge_ruleset=Telegram,https://raw.nameless13.com/api/public/dl/C07cwOov/Telegram.list
+surge_ruleset=Global Media,https://raw.nameless13.com/api/public/dl/lFFBhv7P/GlobalMedia.list
+surge_ruleset=HKMTMedia,rules/ConnersHua/Surge/Ruleset/HKMTMedia.list
+surge_ruleset=Apple,https://raw.nameless13.com/api/public/dl/GEmiPkoD/Apple.list
+surge_ruleset=XTJT,https://raw.nameless13.com/api/public/dl/b0RW7-cS/Global.list
+surge_ruleset=DIRECT,https://raw.nameless13.com/api/public/dl/a7ial-M0/DIRECT.list
+surge_ruleset=DIRECT,https://raw.nameless13.com/api/public/dl/jTZpLS_E/China.list
+surge_ruleset=DIRECT,rules/NobyDa/Surge/Download.list
+surge_ruleset=DIRECT,[]GEOIP,CN
+surge_ruleset=Final,[]FINAL
+
+
+
+custom_proxy_group=XTJT`select`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`(1X|1x)
+;custom_proxy_group=Auto`url-test`.*`http://www.gstatic.com/generate_204`500
+custom_proxy_group=Telegram`select`[]XTJT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`(新|狮城|SG|Singa|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)
+custom_proxy_group=YouTube`select`[]XTJT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`^((?!CN2).)*$
+custom_proxy_group=Netflix`select`[]XTJT`[]🎥`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`(NF*)
+custom_proxy_group=Bahamut`select`[]XTJT`[]TW`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=AbemaTV`select`[]XTJT`[]JP`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=HK`select`(港|HK|HONG|Hong|HGC)
+custom_proxy_group=TW`select`(台|新北|彰化|TW|Tai)
+custom_proxy_group=SG`select`(新|狮城|SG|Singa)
+custom_proxy_group=JP`select`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Jap)
+custom_proxy_group=US`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)
+custom_proxy_group=🚀 其他节点`select`GCX`^((?!新|多伦多|哥伦布|纽约|弗里蒙特|Jap|Tai|Singa|狮城|SG|港|HK|HONG|Hong|HGC|台|新北|彰化|TW|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US).)*$
+custom_proxy_group=🎥`select`(NF|Netflix|NETFLIX)`[]🚀 手动切换
+custom_proxy_group=🚀 手动切换`select`.*
+custom_proxy_group=Global Media`select`[]XTJT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=HKMTMedia`select`[]DIRECT`[]🚀 其他节点`[]HK`[]TW
+custom_proxy_group=Apple`select`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换
+custom_proxy_group=Microsoft`select`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换
+custom_proxy_group=Hijacking`select`[]REJECT`[]XTJT`[]SG`[]HK`[]TW`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=Final`select`[]XTJT`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]🚀 其他节点`[]🚀 手动切换
+custom_proxy_group=Netease`select`(etease|音乐|解锁|CN)`[]DIRECT
