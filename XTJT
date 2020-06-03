@@ -42,4 +42,4 @@ custom_proxy_group=Apple`select`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]Others`[]�
 custom_proxy_group=Microsoft`select`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]Others`[]🚀
 custom_proxy_group=Hijacking`select`[]REJECT`[]XTJT`[]SG`[]HK`[]TW`[]JP`[]US`[]Others`[]🚀`[]DIRECT
 custom_proxy_group=Final`select`[]XTJT`[]DIRECT`[]HK`[]TW`[]SG`[]JP`[]US`[]Others`[]🚀
-custom_proxy_group=Netease`select`(etease|音乐|解锁|CN)`select`.*[]DIRECT
+custom_proxy_group=Netease`select`select`.*[]DIRECT
